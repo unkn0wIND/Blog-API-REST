@@ -2,13 +2,13 @@
 
 ###################################################################################
 
-Ceci est un projet de gestion d'article & catégorie via une API REST.
-Cette API est développer en PHP sans aucun framework
+Ceci est un projet de gestion d'article & catégorie via une API REST. <br>
+Cette API est développer en PHP sans aucun framework<br>
 
-Un tutoriel sur la création d'API sera bientôt en ligne sur mon site,
-pour les curieux qui veulent suivre les étapes je vous laisse le lien de mon site
+Un tutoriel sur la création d'API est en ligne sur mon site ! <br>
+Pour les curieux qui veulent suivre les étapes je vous laisse le lien de mon site<br>
 
-Lien : https://dev-pentest.fr
+Lien : https://dev-pentest.fr <br>
 
 Importer api.sql qui est la base de donnée puis vous pouvez utiliser l'API pour voir comment elle se comporte
 
